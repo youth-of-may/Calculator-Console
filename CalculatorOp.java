@@ -6,7 +6,6 @@ public class CalculatorOp {
     public CalculatorOp() {
         firstNum = 0;
         secondNum = 0;
-        total = 0;
         rawS = "";
     }
     private String determineOp(String s) {
